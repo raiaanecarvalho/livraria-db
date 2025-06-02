@@ -23,3 +23,4 @@ Este repositório contém o desenvolvimento de um banco de dados relacional para
 
 ## 🔗 Link para o Script SQL
 [Visualizar banco_livraria.sql](https://github.com/raiaanecarvalho/livraria-db/blob/f92a0765a4c72beeec1eefb49f08d1cd2de71e80/banco_livraria.sql)
+
